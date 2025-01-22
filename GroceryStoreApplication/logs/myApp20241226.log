@@ -1,0 +1,29 @@
+2024-12-26 06:58:59.301 +05:30 [INF] Application Started
+2024-12-26 06:59:25.980 +05:30 [INF] User registered
+2024-12-26 06:59:56.005 +05:30 [INF] User Loged in
+2024-12-26 08:47:21.024 +05:30 [INF] Application Started
+2024-12-26 08:47:50.186 +05:30 [INF] User registered
+2024-12-26 08:48:06.147 +05:30 [ERR] Entered Invalid Customer ID
+2024-12-26 08:48:19.470 +05:30 [INF] Application Started
+2024-12-26 08:48:24.874 +05:30 [ERR] Entered Invalid Customer ID
+2024-12-26 08:48:36.071 +05:30 [ERR] Entered Invalid Customer ID
+2024-12-26 08:48:47.292 +05:30 [INF] Application Started
+2024-12-26 08:48:57.709 +05:30 [ERR] Entered Invalid Customer ID
+2024-12-26 08:49:32.461 +05:30 [INF] User Loged in
+2024-12-26 12:23:23.012 +05:30 [INF] Application Started
+2024-12-26 12:23:53.205 +05:30 [INF] User registered
+2024-12-26 12:24:34.320 +05:30 [INF] User Loged in
+2024-12-26 12:25:28.655 +05:30 [INF] Amount added into wallet
+2024-12-26 12:25:52.209 +05:30 [INF] Product Successfully added to  cart
+2024-12-26 12:26:02.931 +05:30 [INF] Booked Successfully. ID:BID3005
+2024-12-26 12:26:29.387 +05:30 [INF] Booked Successfully. ID:BID3006
+2024-12-26 12:27:27.588 +05:30 [INF] Order Moified Successfully
+2024-12-26 12:27:42.508 +05:30 [INF] Order cancelled Sccessfully
+2024-12-26 12:28:27.775 +05:30 [INF] Order Moified Successfully
+2024-12-26 12:29:51.391 +05:30 [INF] Application Started
+2024-12-26 12:29:52.269 +05:30 [INF] Appication closed
+2024-12-26 12:36:24.478 +05:30 [INF] Application Started
+2024-12-26 12:36:36.134 +05:30 [INF] Application Started
+2024-12-26 12:37:02.844 +05:30 [INF] Application Started
+2024-12-26 12:37:42.272 +05:30 [INF] Application Started
+2024-12-26 12:38:58.520 +05:30 [INF] Application Started
